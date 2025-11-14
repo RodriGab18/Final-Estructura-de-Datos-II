@@ -62,6 +62,7 @@ while detenerse == False:
         print(textoAGuardar)
         calcularHash(textoAGuardar)
         hashAlmacenado = calcularHash
+        print(hashAlmacenado)
         input("Presione enter para continuar.")
 
     elif opcion == 3:
