@@ -96,6 +96,7 @@ while detenerse == False:
     elif opcion == 8:
         os.system("cls")
         print("Rodrigo Gabriel Pérez Vásquez, 1576224")
+        detenere = True
 
     else: 
         print("Seleccione una opción válida.")
